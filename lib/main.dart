@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:kalkulator_saham/screens/home.dart';
+import 'package:kalkulator_saham/screens/gradient_container.dart';
 
 void main() {
   runApp(const MyApp());
